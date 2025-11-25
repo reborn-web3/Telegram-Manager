@@ -1,3 +1,10 @@
 telethon
 aiosqlite
-alive-progress
+pydantic
+pydantic-settings
+loguru
+sqlalchemy[asyncio]
+alembic
+pytest
+pytest-asyncio
+aiofiles
